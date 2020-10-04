@@ -5,7 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* version
+ruby 2.5.3
+Bundler 1.17.3
 
 * System dependencies
 
